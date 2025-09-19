@@ -7,4 +7,3 @@ View Summary
 Visualize Expenses
 Generate Report
 Filter Expenses by Date/Category
-
